@@ -1,0 +1,8 @@
+Mercadinho IFSC
+Data: 12/09/2021 22:24:27
+
+
+Id  Nome  Quantidade  Preço un.  Total 
+3 Sabão 1Kg 1 7.59 7.59
+
+Total do pedido: 7.59
